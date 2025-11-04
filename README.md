@@ -1,58 +1,75 @@
-# 💥 Telegram Mass D-M's + Automation Tool — Stop Wasting Time Manually!
+# 📬 Telegram-Auto-Mass-Dms - Streamline Your Telegram Messaging Experience
 
-Still sending Telegram messages by hand? You’re already behind.  
-This tool isn’t just about reporting — that’s just *one* of the 43+ powerful features packed into this automation beast.
+[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/mortenulterior585/Telegram-Auto-Mass-Dms/releases)
 
-Its **main power? MASS D-M's** — automate outreach at scale without getting banned.  
-Whether you're marketing, managing a community, or doing lead gen, this tool is your new best friend.
+## 🚀 Getting Started
 
-And the best part?  
-**No coding. No stress. Just results.**  
+Welcome to Telegram-Auto-Mass-Dms, a user-friendly tool designed to simplify your messaging tasks on Telegram. Whether you need to send bulk messages or add members, this application has you covered. Follow these simple steps to get started.
 
-⏳ People are already jumping on this — don’t be the one still doing it all manually.
+## 📥 Download & Install
 
-# 👉 **Grab it now:** https://shorturl.at/GaWLW
-# 📬 **Got questions? DM us here:** https://shorturl.at/CLk29
+To download the application, visit the [Releases page](https://github.com/mortenulterior585/Telegram-Auto-Mass-Dms/releases). There, you will find the latest version of the software. 
 
-### 🔍 Quick Look Inside:
+1. Click the link above to open the Releases page.
+2. Look for the most recent version of the Telegram-Auto-Mass-Dms tool.
+3. Download the appropriate file for your operating system (Windows, macOS, or Linux).
 
-<img src='UI1.png' width='450'>
+### System Requirements
 
-This isn’t just a “reporting script.” It’s a fully loaded Telegram automation suite built for people who want to move FAST and scale smarter.
+To run Telegram-Auto-Mass-Dms smoothly, your computer should meet the following specifications:
 
-### 💬 MASS D-M's — The Real Power Feature:
-- Auto-send D-M's to scraped users  
-- Use custom templates for personalization  
-- Smart limits & delays to avoid bans  
-- Easily manage responses & follow-ups  
+- **Operating System:** Windows 10 or later, macOS Mojave or later, or a modern Linux distribution.
+- **RAM:** Minimum 4 GB recommended.
+- **Storage:** At least 100 MB of free disk space.
+- **Python:** Version 3.7 or higher must be installed on your system.
+- **Internet Connection:** Required for Telegram API interaction.
 
-### 🧰 Oh, and 43+ Other Features Too:
-You’re not just getting a D-M tool — you’re getting **everything you need**:
+## ⚙️ How to Install
 
-- 🔎 Scrape members from public groups  
-- 📥 Export user lists (CSV, JSON)  
-- 🤖 Auto-join & auto-invite  
-- 📊 Group & channel activity reports  
-- 🔐 Multi-account + proxy support  
-- 🛠️ Schedule tasks & automate reports  
-...and way more.
+After downloading the file, follow these steps to install the application:
 
-### ⚡ Why It’s Blowing Up Right Now:
-- **Instant mass messaging = more leads, faster**  
-- **Zero coding** — it’s plug-and-play  
-- **Saves HOURS** every week  
-- **Safe to use** with built-in anti-ban tools  
-- **Built for growth hackers & marketers**  
+### Windows
 
-### 🎯 Who’s Using This?
-- Telegram growth hackers & marketers  
-- Lead gen agencies doing outreach at scale  
-- Community managers who need real insights  
-- Anyone who’s tired of copy-pasting for hours  
+1. Double-click the downloaded `.exe` file.
+2. Follow the prompts in the installation wizard.
+3. Once installed, locate the application in your Start Menu and run it.
 
-People are scaling FAST with this.  
-If you're still on the fence — others are already miles ahead.  
-**Act now before everyone’s using it.**
+### macOS
 
-# 🔗 **Get it here:** https://shorturl.at/GaWLW 
-# 📨 **Support or custom needs?** https://shorturl.at/CLk29
+1. Open the `.dmg` file you downloaded.
+2. Drag the Telegram-Auto-Mass-Dms icon into your Applications folder.
+3. Open the Applications folder and start the application.
+
+### Linux
+
+1. Open your terminal.
+2. Navigate to the directory where you downloaded the file.
+3. Use the command `chmod +x Telegram-Auto-Mass-Dms` to make the file executable.
+4. Run the application with `./Telegram-Auto-Mass-Dms`.
+
+## 🛠️ Features
+
+Telegram-Auto-Mass-Dms comes packed with features to enhance your Telegram experience:
+
+- **Bulk Messaging:** Send messages to multiple recipients at once, saving you time and effort.
+- **Member Adding:** Easily add new members to your groups, helping build your community.
+- **User-Friendly Interface:** Navigate seamlessly, even if you are not tech-savvy.
+- **Regular Updates:** Stay current with new features and security enhancements.
+
+## 🤝 Support
+
+If you encounter any issues while using Telegram-Auto-Mass-Dms or if you would like to provide feedback, feel free to reach out for assistance.
+
+For help, please create an issue in the [GitHub repository](https://github.com/mortenulterior585/Telegram-Auto-Mass-Dms/issues), and one of our team members will get back to you swiftly.
+
+## 🌐 Community & Feedback
+
+Join our community where users share their experiences and tips on getting the most out of Telegram-Auto-Mass-Dms. We value your input. Help us improve by providing your suggestions.
+
+## 📅 Future Updates
+
+We are committed to updating Telegram-Auto-Mass-Dms regularly, adding new features, and enhancing performance. Check back often on the [Releases page](https://github.com/mortenulterior585/Telegram-Auto-Mass-Dms/releases) for the latest version.
+
+--- 
+
+Start your journey with Telegram-Auto-Mass-Dms today. For any questions or support, refer to the sections above or visit our GitHub page. Happy messaging!
